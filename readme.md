@@ -20,7 +20,7 @@ I created bar charts, applied filters, and compared country-wise performance to 
 ![Tax by Country](sheet-2.png)
 
 ### Profit by Country (Ships Product)
-![Profit by Country](sheet-3.png)
+![Profit by Country](sheet -3.png)
 
 ## Key Learning
 - Connected and explored datasets in Tableau
